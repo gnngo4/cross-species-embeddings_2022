@@ -7,7 +7,7 @@ This repository is missing many dependencies. It is intended to give an idea of 
 Raw resting-state fMRI marmoset data and associated preprocessing code can be downloaded from www.marmosetbrainconnectome.org.
 
 src/ contains gradient generation codebase \
-scripts/ contains code for generating human/marmoset functional connectivity matrices, and joint embeddings \
-data/ contains joint-embedding results in CIFTI format \
+scripts/ contains code for generating human/marmoset functional connectivity matrices and joint embeddings \
+data/ contains joint-embedding results \
 atlas/ contains homologous ROIs used in analyses \
 notebooks/ contains jupyter notebook samples 
