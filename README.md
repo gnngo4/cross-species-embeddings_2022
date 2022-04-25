@@ -8,6 +8,6 @@ Raw resting-state fMRI marmoset data and associated preprocessing code can be do
 
 src/ contains gradient generation codebase \
 scripts/ contains code for generating human/marmoset functional connectivity matrices, and joint embeddings \
-data/ contains joint-gradient results in CIFTI format (including ensuing joint embeddings) \
+data/ contains joint-embedding results in CIFTI format \
 atlas/ contains homologous ROIs used in analyses \
 notebooks/ contains jupyter notebook samples 
